@@ -39,5 +39,3 @@ I am dedicating 100 days to consistently learning, coding, and implementing Mach
 | 81 – 100 | Projects + Optimization |
 
 ---
-
-## 📂 Folder Structure
